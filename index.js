@@ -1,7 +1,7 @@
 function initMap() {
     const mlh = { lat: 40.73931515525687, lng: -73.98393552056945};
     const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 4,
+        zoom: 12,
         center: mlh
     })
     const marker = new google.maps.Marker({
