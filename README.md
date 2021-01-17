@@ -14,3 +14,8 @@ Experimenting following tutorials at https://developers.google.com/maps/document
 
    https://console.cloud.google.com/project/_/billing/enable
    
+5. Start a simple HTTP server:
+   ```
+   python3 -m http.server
+   ```
+
