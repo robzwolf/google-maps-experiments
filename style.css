@@ -2,3 +2,9 @@
     height: 400px;
     width: 100%;
 }
+
+body {
+    font-family: "Comic Sans MS";
+    background: #486f99;
+    color: #e8edee;
+}
